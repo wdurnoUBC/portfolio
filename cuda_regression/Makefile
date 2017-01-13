@@ -1,0 +1,8 @@
+all: fmwc_est_cu.so fmwc_est_cu.so
+	nvcc --compiler-options '-fPIC' -o fmwc_est_cu.so --shared fmwc_est_cu.cu
+	R CMD SHLIB fmwc_est_c.c fmwc_est_cu.so
+
+clean:
+	rm fmwc_est_c.o
+	rm fmwc_est_c.so
+	rm fmwc_est_cu.so
