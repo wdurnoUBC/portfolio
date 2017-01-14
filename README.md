@@ -1,5 +1,6 @@
-# Portfolio 
-### Code content 
+# Portfolio code content 
+
+Please see my primary portfolio website at [wdurno.squarespace.com](https://wdurno.squarespace.com).
 
 ## cuda_regression 
 This project encodes software for high-dimensional count data regression. Estimation is GPU-accelerated and interfaced via R.
