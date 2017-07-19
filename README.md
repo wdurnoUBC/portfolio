@@ -11,6 +11,6 @@ This project encodes software for a [classic N-body simulation](https://en.wikip
 ## [Java example](https://github.com/wdurnoUBC/portfolio/tree/master/java) 
 This project encodes an information management system with a SWING (**Java**) front end and centralized MySQL backend. 
 
-## [Python](https://github.com/wdurnoUBC/portfolio/tree/master/python) 
+## [Python example](https://github.com/wdurnoUBC/portfolio/tree/master/python) 
 This item demonstrates **Python** capabilities. The code is part of an algorithmic arbitrage trading bot. 
 
