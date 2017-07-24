@@ -14,3 +14,6 @@ This project encodes an information management system with a SWING (**Java**) fr
 ## [Python example](https://github.com/wdurnoUBC/portfolio/tree/master/python) 
 This item demonstrates **Python** capabilities. The code is part of an algorithmic arbitrage trading bot. 
 
+## [C++ example](https://github.com/wdurnoUBC/portfolio/tree/master/cpp/fasta_subsetter) 
+This item demonstrates basic usage of an STL hast set. 
+
