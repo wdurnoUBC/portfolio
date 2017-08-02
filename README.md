@@ -1,6 +1,6 @@
 # Portfolio code appendix 
 
-Please see my primary portfolio website at [wdurno.squarespace.com](https://wdurno.squarespace.com).
+Please see my primary portfolio website at [wdurno.com](https://wdurno.com).
 
 ## [cuda_regression](https://github.com/wdurnoUBC/portfolio/tree/master/cuda_regression) 
 This project encodes software for high-dimensional count data regression. Estimation is **GPU-accelerated** with an **R interface**.
@@ -16,4 +16,7 @@ This item demonstrates **Python** capabilities. The code is part of an algorithm
 
 ## [C++ example](https://github.com/wdurnoUBC/portfolio/tree/master/cpp/fasta_subsetter) 
 This item demonstrates basic usage of an STL hast set. 
+
+## [Deep Learning](https://github.com/wdurnoUBC/portfolio/tree/master/deepLearning) 
+This item demonstrates simple 2-class image recognition with deep convolutional neural nets implemented in Keras and Tensorflow. 
 
