@@ -1,3 +1,7 @@
 
-This Python scripts show my early explorations into deep learning. Both scripts implement the same convolutional neural nets for 2-class image recognition (dogs and cats). One net is implemented with Keras, the other with Tensorflow. 
+**keras_cnn.py**: 2-class image classification in Keras. 
+
+**tensorflow_cnn.py**: 2-class image classification in Tensorflow. 
+
+**cnn_autoencoder_2_layers.py**: Convolutional autoencoder in Tensorflow. 
 
