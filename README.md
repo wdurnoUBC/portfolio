@@ -18,5 +18,5 @@ This item demonstrates **Python** capabilities. The code is part of an algorithm
 This item demonstrates basic usage of an STL hast set. 
 
 ## [Deep Learning](https://github.com/wdurnoUBC/portfolio/tree/master/deepLearning) 
-This item demonstrates simple 2-class image recognition with deep convolutional neural nets implemented in Keras and Tensorflow. 
+Items include a convolutional autoencoder, 2-class image classifier, and a Shakespeare-generating recurrent net. Most software is implemented in **Tensorflow**, and also features some Keras.
 
