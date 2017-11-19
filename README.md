@@ -15,11 +15,11 @@ This project encodes an information management system with a SWING (**Java**) fr
 This item demonstrates **Python** capabilities. The code is part of an algorithmic arbitrage trading bot. 
 
 ## [C++ example](https://github.com/wdurnoUBC/portfolio/tree/master/cpp/fasta_subsetter) 
-This item demonstrates basic usage of an STL hast set. 
+This item demonstrates basic usage of an STL hash set. 
 
 ## [Deep Learning](https://github.com/wdurnoUBC/portfolio/tree/master/deepLearning) 
 Items include a convolutional autoencoder, 2-class image classifier, and a Shakespeare-generating recurrent net. Most software is implemented in **Tensorflow**, and also features some Keras.
 
 ## [Kaggle competitions](https://github.com/wdurnoUBC/portfolio/blob/master/kaggle) 
-Includes two projects. First is a high-dimensional time series regression problem which is solved with **Spark** on **AWS** and **Gradient Boosting**. Second is **Naive Bayes** classification. 
+Includes two projects. First is a high-dimensional time series regression problem which is solved with **Spark** on **AWS** and **Gradient Boosting**. Spark dataframes illustrate usage of **SQL**. Second is **Naive Bayes** classification. 
 
