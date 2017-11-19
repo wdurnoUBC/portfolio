@@ -20,6 +20,6 @@ This item demonstrates basic usage of an STL hast set.
 ## [Deep Learning](https://github.com/wdurnoUBC/portfolio/tree/master/deepLearning) 
 Items include a convolutional autoencoder, 2-class image classifier, and a Shakespeare-generating recurrent net. Most software is implemented in **Tensorflow**, and also features some Keras.
 
-## [Kaggle competitions](https://github.com/wdurnoUBC/portfolio/blob/master/kaggle/SpamDetection.ipynb) 
-Includes a Jupyter Notebook illustrating the data science problem solving cycle applied toward spam detection.
+## [Kaggle competitions](https://github.com/wdurnoUBC/portfolio/blob/master/kaggle) 
+Includes two projects. First is a high-dimensional time series regression problem which is solved with **Spark** on **AWS** and **Gradient Boosting**. Second is **Naive Bayes** classification. 
 
