@@ -23,6 +23,6 @@ Items include a convolutional autoencoder, 2-class image classifier, and a Shake
 ## [Kaggle competitions](https://github.com/wdurnoUBC/portfolio/blob/master/kaggle) 
 Includes two projects. First is a high-dimensional time series regression problem which is solved with **Spark** on **AWS** and **Gradient Boosting**. Spark dataframes illustrate usage of **SQL**. Second is **Naive Bayes** classification. 
 
-## [Math](https://github.com/wdurnoUBC/portfolio/blob/master/erization_manifolds) 
+## [Math](https://github.com/wdurnoUBC/portfolio/blob/master/regularization_manifolds) 
 After showing that many popular regularization methods are equivalent to manifold-constrained estimates, I prove that such constraints reduce estimation error when manifolds are sufficiently unbiased. Interestingly, this means that if discovering a *true* model requires too many parameters, then it really is better to be just a little bit wrong. 
 
